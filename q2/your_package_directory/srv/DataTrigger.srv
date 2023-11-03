@@ -1,0 +1,4 @@
+string name
+int32 std_id
+---
+bool ok
